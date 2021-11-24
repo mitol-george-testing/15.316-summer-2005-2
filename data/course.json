@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5176fe52-fdb5-aee4-a219-93d96a41b1c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Building and Leading Effective Teams",
+  "course_description": "This course is an intensive one-week introduction to leadership, teams, and learning communities. The class meets daily for\u00a0five days. The class serves as an introduction of concepts and uses a variety of experiential exercises to develop individual and team skills, as well as supportive relationships within the Leaders for Manufacturing class.\u00a0As part of the focus on leadership, it discusses the idea of the \"Universe Within\", the images, thoughts, and experiences that are internal to all leaders.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.316",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
